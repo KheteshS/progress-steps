@@ -1,5 +1,5 @@
 # progress-steps
-Day 2/30
+Day 2/50
 
 demo - [progress-steps](https://fervent-nightingale-f1ebc6.netlify.app/)
 ---
